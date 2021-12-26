@@ -1,11 +1,11 @@
 Algoritmo GloSoftSolution
-	Definir nombre Como Caracter
+	Definir Nombre Como Caracter
 	Definir RNC Como Entero
-	Definir fecha Como Entero
+	Definir Fecha Como Entero
 	Definir producto Como Entero
-	Definir cantidad Como Entero
+	Definir Cantidad Como Entero
 	Escribir ingrese,su,nombre
-	Leer nombre
+	Leer Nombre
 	Escribir ingrese,su,RNC
 	Leer RNC
 	Escribir ingrese,su,fecha
